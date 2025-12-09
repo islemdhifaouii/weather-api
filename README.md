@@ -1,0 +1,3 @@
+Real-Time Weather Monitoring System (Spring Boot + WebSocket + Responsive UI):
+Built a weather monitoring application featuring a polished, user-friendly interface using HTML, CSS, and JavaScript. The backend, developed in Spring Boot, uses WebSockets to push live weather updates directly to the client for seamless real-time interaction. Integrated third-party weather services, implemented asynchronous data refresh, and designed a clean, intuitive UI for displaying temperature, humidity, wind speed, and conditions.
+Tech: Java, Spring Boot, Spring WebSocket, HTML, CSS, JavaScript, REST API, OpenWeather API.
